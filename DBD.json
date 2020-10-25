@@ -1,0 +1,25 @@
+{
+  "name": "DBD",
+  "logoURI": "https://s1.ax1x.com/2020/10/25/BmiSgO.png",
+  "keywords": [
+      "defi",
+      "DBD",
+      "yield"
+    ],
+    "timestamp": "2020-10-17T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xf78bE8A5A7f368EDdbDad0CB67dbEB5D608A3581",
+      "name": "DBD Token",
+      "symbol": "DBD",
+      "decimals": 18,
+      "logoURI": "https://s1.ax1x.com/2020/10/25/BmiSgO.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
